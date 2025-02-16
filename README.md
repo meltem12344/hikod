@@ -16,7 +16,7 @@ Bu proje, Kaggle'dan alınan *World Happiness Report* (Dünya Mutluluk Raporu) v
   - `Generosity` - Cömertlik
   - `Perceptions of Corruption` - Yolsuzluk Algısı
 
-## 🛠 Kullanılan Teknolojiler
+## 🛠 Kullanılan Kütüphaneler ve Modüller
 - **Python** 🐍
 - **Pandas** - Veri Manipülasyonu
 - **Matplotlib & Seaborn** - Veri Görselleştirme
